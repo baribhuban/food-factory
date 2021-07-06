@@ -29,6 +29,10 @@ section{
 .half-width img{
     width: 50%;
 }
+.receipe-content{
+    text-align: center;
+}
+
 .contianer-item{
     display: flex;
     justify-content: space-between;
